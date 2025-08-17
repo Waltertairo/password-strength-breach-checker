@@ -45,3 +45,15 @@ Includes a **secure password generator** and **Diceware-style passphrase** gener
 **Verify the download (optional):**
 ```powershell
 Get-FileHash ".\PSBC-Setup.exe" -Algorithm SHA256
+
+---
+
+## 🤝 Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to open Issues, make changes, and submit Pull Requests.
+
+---
+
+## 📝 Code of Conduct
+This project follows a [Code of Conduct](CODE_OF_CONDUCT.md).  
+By participating, you are expected to uphold this code.
+
